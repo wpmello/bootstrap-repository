@@ -1,0 +1,28 @@
+
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar  {
+    background-color: #3DB3F2;
+}
+
+.quem-sou-eu {
+    background-color: #79C7F9;
+    color: black;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.redes-sociais {
+    background-color: #A1D7F9;
+}
+
+.bg-footer {
+    background-color: lightgray;
+    color: black;
+}
+
