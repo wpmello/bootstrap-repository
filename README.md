@@ -5,11 +5,9 @@ Repositório para praticar e aprender bootstrap
 
 Construir uma simples tela usando bootstrap onde está sendo informado maneiras de entrar em contato comigo atravéz de redes socias e email.
 
----
 ## Desenvolvimento
 Além de técnicas de programação básicas, foi usada a ferramenta Gimp para a edição básica das fotos (ícones).
 
----
 ## Requisitos necessários para rodar em sua máquina
 caso queira rodar e ver em sua máquina, bastea seguir os seguintes passos:
 ```
