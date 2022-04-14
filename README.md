@@ -7,7 +7,7 @@ Construir uma simples tela usando bootstrap onde está sendo informado maneiras 
 
 ---
 ## Desenvolvimento
-Além de técnicas de programação básicas, foi usada a ferramenta [Gimp](https://www.gimp.org/) para a edição básica das fotos (ícones).
+Além de técnicas de programação básicas, foi usada a ferramenta Gimp para a edição básica das fotos (ícones).
 
 ---
 ## Requisitos necessários para rodar em sua máquina
