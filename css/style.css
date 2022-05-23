@@ -1,14 +1,16 @@
-
 body {
     font: 20px Arial, sans-serif;
+    background-color: #c8c8fa;
+}
+
+img {
+    margin-bottom: 24px;
 }
 
 .navbar  {
-    background-color: #3DB3F2;
 }
 
 .quem-sou-eu {
-    background-color: #79C7F9;
     color: black;
 }
 
@@ -18,11 +20,9 @@ body {
 }
 
 .redes-sociais {
-    background-color: #A1D7F9;
 }
 
 .bg-footer {
-    background-color: lightgray;
     color: black;
 }
 
